@@ -1,6 +1,6 @@
 _This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)._
 
-#Wall-IT Personal Finance Manager
+# Wall-IT Personal Finance Manager
 
 Wall-IT is an SPA built with React and React Router on the front end, deployed utilizing an Express server on Node.js. User login information is encrypted on our database using the bcrypt library.
 
